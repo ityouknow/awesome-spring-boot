@@ -9,41 +9,53 @@
 - [博客](#博客)
 - [网站](#网站)
 - [开源](#开源)
+- [其它](#其它)
 
 
 ## 博客
 
-- [纯洁的微笑](http://www.ityouknow.com/spring-boot.html)  
-- [程序猿DD](http://blog.didispace.com/categories/Spring-Boot/)   
-- [liaokailin的专栏](http://blog.csdn.net/liaokailin/article/category/5765237)  
-- [Spring Boot 揭秘与实战 系列](http://blog.720ui.com/columns/springboot_all/)  
-- [catoop的专栏](http://blog.csdn.net/column/details/spring-boot.html)  
+- [纯洁的微笑-Spring Boot系列文章](http://www.ityouknow.com/spring-boot.html)  
+- [程序猿DD-Spring Boot合集](http://blog.didispace.com/categories/Spring-Boot/)   
+- [林祥纤-从零开始学Spring Boot](http://412887952-qq-com.iteye.com/category/356333)   
+- [Mkyong-Spring Boot教程（国外）](http://www.mkyong.com/tutorials/spring-boot-tutorials/)   
+- [liaokailin的专栏-Spring Boot实战](http://blog.csdn.net/liaokailin/article/category/5765237)   
+- [梁桂钊-Spring Boot 揭秘与实战 系列](http://blog.720ui.com/columns/springboot_all/)  
+- [catoop的专栏-Spring Boot 学习](http://blog.csdn.net/column/details/spring-boot.html)  
 - [简书Spring Boot专题](http://www.jianshu.com/c/f0cf6eae1754)  
-- [方志朋Spring Boot 专栏](http://blog.csdn.net/column/details/15397.html)  
-- [Spring-boot集成](http://lihao312.iteye.com/)  
+- [方志朋-SpringBoot 非官方教程](http://blog.csdn.net/column/details/15397.html)  
+- [嘟嘟-Spring-Boot干货系列](http://tengj.top/categories/Spring-Boot%E5%B9%B2%E8%B4%A7%E7%B3%BB%E5%88%97/)  
+- [小柒-SpringBoot开发案例](https://blog.52itstyle.com/category/springBoot/)  
 
 
 ## 网站
  
 - [Spring boot 官网](http://projects.spring.io/spring-boot/)  
-- [Spring Boot参考指南-中文版](https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/content/)  
-- [Gradle 中文参考指南](https://dongchuan.gitbooks.io/gradle-user-guide-/content/tutorials/)  
-- [慕课网视频](http://www.imooc.com/learn/767)   
-- [spring-boot-tutorials](http://www.mkyong.com/tutorials/spring-boot-tutorials/)    
+- [Spring Boot 参考指南- 英文版](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)  
+- [Spring Boot 参考指南-中文版](https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/content/)  
+- [网易云课堂Spring Boot视频](http://study.163.com/courses-search?keyword=Spring%20Boot)   
+- [慕课网Spring Boot视频](https://www.imooc.com/search/?words=spring%20boot)   
+- [Spring4all-Spring Boot专栏](http://www.spring4all.com/category/2)   
 - [开源书籍-微服务：从设计到部署](https://github.com/oopsguy/microservices-from-design-to-deployment-chinese)    
 
 
 ## 开源
 
 - [spring boot官方例子](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples)  
-- [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)   
-- [SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning)  
-- [favorites-web](https://github.com/cloudfavorites/favorites-web)  
-- [springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example)  
+- [纯洁的微笑 的Spring-boot示例](https://github.com/ityouknow/spring-boot-examples)   
+- [程序员DD SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning)  
+- [Spring Boot开源软件 云收藏](https://github.com/cloudfavorites/favorites-web)  
 - [spring-boot-all](https://github.com/leelance/spring-boot-all)  
+- [Spring Boot实现支付服务：支付宝，微信...](https://gitee.com/52itstyle/spring-boot-pay)  
+- [Spring Boot后台商城 h5 小程序](https://gitee.com/JiaGou-XiaoGe/webappchat)  
+- [基于Spring Boot响应式文件浏览管理器](https://gitee.com/alexyang/spring-boot-filemanager)  
+- [Spring Boot开源博客](https://github.com/Raysmond/SpringBlog)  
+- [邮件发送服务多种实现，队列，线程定时任务](https://gitee.com/52itstyle/spring-boot-mail)  
+- [Spring Boot视频展示项目](https://github.com/ChinaSilence/any-video)  
+- [Spring Boot项目实践总结](https://github.com/timebusker/spring-boot)  
 
 
+## 其它
 
-
-
-
+- [知乎-Spring Boot要如何学习？](https://www.zhihu.com/question/53729800/answer/311948415)  
+- [Spring Cloud 中文索引](https://github.com/ityouknow/awesome-spring-cloud)   
+- [程序员导航网站](http://tooool.org/)  
