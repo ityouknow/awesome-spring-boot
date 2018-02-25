@@ -52,6 +52,8 @@
 - [邮件发送服务多种实现，队列，线程定时任务](https://gitee.com/52itstyle/spring-boot-mail)  
 - [Spring Boot视频展示项目](https://github.com/ChinaSilence/any-video)  
 - [Spring Boot项目实践总结](https://github.com/timebusker/spring-boot)  
+- [Vue+SpringBoot实现的多用户博客管理平台](https://github.com/lenve/VBlog)  
+- [Vue+SpringBoot实现的人力资源管理系统](https://github.com/lenve/vhr)  
 
 
 ## 其它
