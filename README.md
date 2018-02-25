@@ -2,7 +2,7 @@
 
 收集各种Spring Boot 学习资源
 
-[参与贡献](https://github.com/ityouknow/awesome-spring-boot/issues/new)
+[参与贡献](https://github.com/ityouknow/awesome-spring-boot/issues/1)
 
 ## 目录
 
