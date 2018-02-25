@@ -61,3 +61,4 @@
 - [知乎-Spring Boot要如何学习？](https://www.zhihu.com/question/53729800/answer/311948415)  
 - [Spring Cloud 中文索引](https://github.com/ityouknow/awesome-spring-cloud)   
 - [程序员导航网站](http://tooool.org/)  
+- [IT行业中文资源大全](https://github.com/ityouknow/awesome-list)  
