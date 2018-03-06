@@ -28,6 +28,7 @@
 - [江南一点雨-关于Spring Boot](http://blog.csdn.net/column/details/13987.html)  
 - [天码营-Spring Boot](https://www.tianmaying.com/tutorials/tag/Springboot)
 - [kl博客-Spring Boot](http://www.kailing.pub/index/columns/colid/10.html)
+- [猿天地-Spring Boot](http://cxytiandi.com/blog/detail/17437)  
 
 ## 网站
  
@@ -61,6 +62,8 @@
 - [KKFileView-SpringBoot实现在线预览](https://gitee.com/kekingcn/file-online-preview)
 - [springboot-mqrpc-SpringBoot实现基于MQ的RPC框架](https://gitee.com/kailing/springboot-mqrpc)
 - [boot-websocket-log-SpringBoot实现日志WEB输出](https://gitee.com/kailing/boot-websocket-log)
+- [hsweb企业后台管理系统基础框架](https://github.com/hs-web/hsweb-framework)  
+- [一个基于spring boot 实现的股票指数💹爬虫](https://github.com/kingschan1204/istock)  
 
 
 ## 其它
