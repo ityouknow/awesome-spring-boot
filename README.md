@@ -26,7 +26,8 @@
 - [嘟嘟-Spring-Boot干货系列](http://tengj.top/categories/Spring-Boot%E5%B9%B2%E8%B4%A7%E7%B3%BB%E5%88%97/)  
 - [小柒-SpringBoot开发案例](https://blog.52itstyle.com/category/springBoot/)  
 - [江南一点雨-关于Spring Boot](http://blog.csdn.net/column/details/13987.html)  
-- [天码营-Spring Boot](https://www.tianmaying.com/tutorials/tag/Springboot)  
+- [天码营-Spring Boot](https://www.tianmaying.com/tutorials/tag/Springboot)
+- [kl博客-Spring Boot](http://www.kailing.pub/index/columns/colid/10.html)
 - [猿天地-Spring Boot](http://cxytiandi.com/blog/detail/17437)  
 
 ## 网站
@@ -57,6 +58,10 @@
 - [Spring Boot项目实践总结](https://github.com/timebusker/spring-boot)  
 - [Vue+SpringBoot实现的多用户博客管理平台](https://github.com/lenve/VBlog)  
 - [Vue+SpringBoot实现的人力资源管理系统](https://github.com/lenve/vhr)  
+- [spring-boot-klock-starter-SpringBoot分布式锁组件](https://gitee.com/kekingcn/spring-boot-klock-starter)
+- [KKFileView-SpringBoot实现在线预览](https://gitee.com/kekingcn/file-online-preview)
+- [springboot-mqrpc-SpringBoot实现基于MQ的RPC框架](https://gitee.com/kailing/springboot-mqrpc)
+- [boot-websocket-log-SpringBoot实现日志WEB输出](https://gitee.com/kailing/boot-websocket-log)
 - [hsweb企业后台管理系统基础框架](https://github.com/hs-web/hsweb-framework)  
 - [一个基于spring boot 实现的股票指数💹爬虫](https://github.com/kingschan1204/istock)  
 
