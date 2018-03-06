@@ -59,7 +59,8 @@
 - [Vue+SpringBoot实现的人力资源管理系统](https://github.com/lenve/vhr)  
 - [hsweb企业后台管理系统基础框架](https://github.com/hs-web/hsweb-framework)  
 - [一个基于spring boot 实现的股票指数💹爬虫](https://github.com/kingschan1204/istock)  
-
+- [KKFileView-SpringBoot实现在线预览](https://gitee.com/kekingcn/file-online-preview)
+- [boot-websocket-log-SpringBoot实现日志WEB输出](https://gitee.com/kailing/boot-websocket-log)
 
 ## 其它
 
