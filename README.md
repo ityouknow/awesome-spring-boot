@@ -27,6 +27,7 @@
 - [小柒-SpringBoot开发案例](https://blog.52itstyle.com/category/springBoot/)  
 - [江南一点雨-关于Spring Boot](http://blog.csdn.net/column/details/13987.html)  
 - [天码营-Spring Boot](https://www.tianmaying.com/tutorials/tag/Springboot)  
+- [猿天地-Spring Boot](http://cxytiandi.com/blog/detail/17437)  
 
 ## 网站
  
@@ -56,6 +57,8 @@
 - [Spring Boot项目实践总结](https://github.com/timebusker/spring-boot)  
 - [Vue+SpringBoot实现的多用户博客管理平台](https://github.com/lenve/VBlog)  
 - [Vue+SpringBoot实现的人力资源管理系统](https://github.com/lenve/vhr)  
+- [hsweb企业后台管理系统基础框架](https://github.com/hs-web/hsweb-framework)  
+- [一个基于spring boot 实现的股票指数💹爬虫](https://github.com/kingschan1204/istock)  
 
 
 ## 其它
