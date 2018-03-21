@@ -15,11 +15,11 @@
 ## 博客
 
 - [纯洁的微笑-Spring Boot系列文章](http://www.ityouknow.com/spring-boot.html)  
-- [程序猿DD-Spring Boot合集](http://blog.didispace.com/categories/Spring-Boot/)   
 - [林祥纤-从零开始学Spring Boot](http://412887952-qq-com.iteye.com/category/356333)   
 - [Mkyong-Spring Boot教程（国外）](http://www.mkyong.com/tutorials/spring-boot-tutorials/)   
-- [liaokailin的专栏-Spring Boot实战](http://blog.csdn.net/liaokailin/article/category/5765237)   
+- [liaokailin的专栏-Spring Boot实战](http://blog.csdn.net/liaokailin/article/category/5765237)
 - [梁桂钊-Spring Boot 揭秘与实战 系列](http://blog.720ui.com/columns/springboot_all/)  
+- [程序猿DD-Spring Boot合集](http://blog.didispace.com/categories/Spring-Boot/)   
 - [catoop的专栏-Spring Boot 学习](http://blog.csdn.net/column/details/spring-boot.html)  
 - [简书Spring Boot专题](http://www.jianshu.com/c/f0cf6eae1754)  
 - [方志朋-SpringBoot 非官方教程](http://blog.csdn.net/column/details/15397.html)  
@@ -42,12 +42,12 @@
 
 ## 开源
 
-- [spring boot官方例子](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples)  
-- [纯洁的微笑 的Spring-boot示例](https://github.com/ityouknow/spring-boot-examples)   
-- [程序员DD SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning)  
+- [纯洁的微笑 Spring Boot 示例](https://github.com/ityouknow/spring-boot-examples)
+- [Spring Boot 官方示例](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples)  
 - [Spring Boot开源软件 云收藏](https://github.com/cloudfavorites/favorites-web)  
 - [Docker+SpringBoot+Mybatis+thymeleaf等技术实现的Java博客系统](https://github.com/ZHENFENG13/My-Blog)  
 - [spring-boot-all](https://github.com/leelance/spring-boot-all)  
+- [程序员DD SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning)  
 - [Spring Boot实现支付服务：支付宝，微信...](https://gitee.com/52itstyle/spring-boot-pay)  
 - [Spring Boot后台商城 h5 小程序](https://gitee.com/JiaGou-XiaoGe/webappchat)  
 - [基于Spring Boot响应式文件浏览管理器](https://gitee.com/alexyang/spring-boot-filemanager)  
@@ -61,6 +61,8 @@
 - [一个基于spring boot 实现的股票指数💹爬虫](https://github.com/kingschan1204/istock)  
 - [KKFileView-SpringBoot实现在线预览](https://gitee.com/kekingcn/file-online-preview)
 - [boot-websocket-log-SpringBoot实现日志WEB输出](https://gitee.com/kailing/boot-websocket-log)
+- [SpringBoot+MyBatis+ApacheShiro+Ehcahe基础平台](https://gitee.com/lcg0124/bootdo)
+
 
 ## 其它
 
