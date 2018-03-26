@@ -28,6 +28,7 @@
 - [江南一点雨-关于Spring Boot](http://blog.csdn.net/column/details/13987.html)  
 - [天码营-Spring Boot](https://www.tianmaying.com/tutorials/tag/Springboot)  
 - [猿天地-Spring Boot](http://cxytiandi.com/blog/detail/17437)  
+- [刘冬的博客-Spring Boot](http://www.cnblogs.com/GoodHelper/tag/spring%20boot/default.html)  
 
 ## 网站
  
