@@ -55,6 +55,7 @@
 - [SpringBoot+MyBatis+ApacheShiro+Ehcahe基础平台](https://gitee.com/lcg0124/bootdo)
 - [spring-boot各种示例](https://github.com/leelance/spring-boot-all)
 - [一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed)
+- [JWT (Json Web Token) with Spring Security and Spring Boot 2](https://github.com/szerhusenBC/jwt-spring-security-demo)
 
 ## 网站
  
