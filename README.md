@@ -56,6 +56,11 @@
 - [spring-boot各种示例](https://github.com/leelance/spring-boot-all)
 - [一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed)
 - [JWT (Json Web Token) with Spring Security and Spring Boot 2](https://github.com/szerhusenBC/jwt-spring-security-demo)
+- [基于Spring-boot和bootstrap搭建的商城系统](https://github.com/vito16/shop)
+- [Deployment scripts & config for Sock Shop](https://github.com/microservices-demo/microservices-demo)
+
+
+
 
 ## 网站
  
