@@ -59,6 +59,7 @@
 - [基于Spring-boot和bootstrap搭建的商城系统](https://github.com/vito16/shop)
 - [Deployment scripts & config for Sock Shop](https://github.com/microservices-demo/microservices-demo)
 - [Spring Boot 开源博客-DBlog](https://gitee.com/yadong.zhang/DBlog)
+- [Spring Boot 实现的简易社区](https://github.com/ChinaLHR/JavaQuarkBBS)
 
 
 
