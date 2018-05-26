@@ -1,3 +1,4 @@
+# Spring Boot application starters
 
 **Spring Boot application starters** 
 
@@ -56,7 +57,7 @@
 
 最后，Spring Boot还包含一些用于排除或交换某些特定技术方面的starters：
 
-**Spring Boot技术性 Starters**
+**Spring Boot 技术性 Starters**
 
 |名称|描述|Pom|
 |------|:------|:------|
