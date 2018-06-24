@@ -62,6 +62,7 @@
 - [Spring Boot 开源博客-DBlog](https://gitee.com/yadong.zhang/DBlog)
 - [Spring Boot 实现的简易社区](https://github.com/ChinaLHR/JavaQuarkBBS)
 - [springboot+shiro+jwt 开源项目](https://gitee.com/tomsun28/bootshiro)
+- [Guns-基于SpringBoot的后台管理系统](https://github.com/stylefeng/Guns)
 
 
 
