@@ -69,6 +69,7 @@
 
 ## 网站
  
+- [云收藏](http://favorites.ren/lookAround)  
 - [Spring boot 官网](http://projects.spring.io/spring-boot/)  
 - [Spring Boot 参考指南- 英文版](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)  
 - [Spring Boot 参考指南-中文版](https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/content/)  
@@ -76,7 +77,6 @@
 - [慕课网Spring Boot视频](https://www.imooc.com/search/?words=spring%20boot)   
 - [Spring4all-Spring Boot专栏](http://www.spring4all.com/category/2)   
 - [开源书籍-微服务：从设计到部署](https://github.com/oopsguy/microservices-from-design-to-deployment-chinese)    
-
 
 ## 其它
 
