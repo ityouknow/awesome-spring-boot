@@ -85,3 +85,10 @@
 - [程序员导航网站](http://tooool.org/)  
 - [IT行业中文资源大全](https://github.com/ityouknow/awesome-list)  
 - [很多的 Hello Demo](https://github.com/hellokoding)  
+
+
+---
+
+关注公众号：纯洁的微笑，回复"springboot"进群交流
+
+![](http://www.ityouknow.com/assets/images/keeppuresmile_430.jpg)
