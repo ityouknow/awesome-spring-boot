@@ -31,6 +31,7 @@
 - [猿天地-Spring Boot](http://cxytiandi.com/blog/detail/17437)  
 - [刘冬的博客-Spring Boot](http://www.cnblogs.com/GoodHelper/tag/spring%20boot/default.html)  
 - [唐亚峰 Battcn-Spring Boot](http://blog.battcn.com/categories/SpringBoot/)  
+- [sylvanassun-Spring Boot](https://sylvanassun.github.io/categories/%E5%90%8E%E7%AB%AF/Java/Spring-Boot/)  
 
 
 ## 开源
@@ -65,7 +66,6 @@
 - [springboot+shiro+jwt 开源项目](https://gitee.com/tomsun28/bootshiro)
 - [Guns-基于SpringBoot的后台管理系统](https://github.com/stylefeng/Guns)
 - [halo-基于SpringBoot的博客系统](https://github.com/ruibaby/halo)
-
 
 
 
