@@ -70,6 +70,7 @@
 - [springboot+shiro+jwt 开源项目](https://gitee.com/tomsun28/bootshiro)
 - [Guns-基于SpringBoot的后台管理系统](https://github.com/stylefeng/Guns)
 - [halo-基于SpringBoot的博客系统](https://github.com/ruibaby/halo)
+- [zhudyos/duic Distributed configuration center（分布式配置中心）:new:](https://github.com/zhudyos/duic)
 
 
 
