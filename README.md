@@ -72,7 +72,7 @@
 - [Guns-基于SpringBoot的后台管理系统](https://github.com/stylefeng/Guns)
 - [halo-基于SpringBoot的博客系统](https://github.com/ruibaby/halo)
 - [zhudyos/duic Distributed configuration center（分布式配置中心）:new:](https://github.com/zhudyos/duic)
-
+- [Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端](https://github.com/linlinjava/litemall)
 
 
 ## 网站
