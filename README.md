@@ -18,7 +18,6 @@
 ## 博客
 
 - [精通 Spring Boot 42 讲](https://gitbook.cn/gitchat/column/5b86228ce15aa17d68b5b55a)
-- [微服务技术架构以及大数据治理实战](http://blog.51cto.com/cloumn/detail/4)
 - [纯洁的微笑-Spring Boot系列文章](http://www.ityouknow.com/spring-boot.html)  
 - [林祥纤-从零开始学Spring Boot](http://412887952-qq-com.iteye.com/category/356333)   
 - [Mkyong-Spring Boot教程（国外）](http://www.mkyong.com/tutorials/spring-boot-tutorials/)
