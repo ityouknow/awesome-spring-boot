@@ -23,7 +23,6 @@
 - [baeldung-Spring Boot教程（国外）](https://www.baeldung.com/spring-boot)  
 - [liaokailin的专栏-Spring Boot实战](http://blog.csdn.net/liaokailin/article/category/5765237)
 - [梁桂钊-Spring Boot 揭秘与实战 系列](http://blog.720ui.com/columns/springboot_all/)  
-- [程序猿DD-Spring Boot合集](http://blog.didispace.com/categories/Spring-Boot/)   
 - [catoop的专栏-Spring Boot 学习](http://blog.csdn.net/column/details/spring-boot.html)  
 - [简书Spring Boot专题](http://www.jianshu.com/c/f0cf6eae1754)  
 - [方志朋-SpringBoot 非官方教程](http://blog.csdn.net/column/details/15397.html)  
@@ -36,6 +35,7 @@
 - [唐亚峰 Battcn-Spring Boot](http://blog.battcn.com/categories/SpringBoot/)  
 - [sylvanassun-Spring Boot](https://sylvanassun.github.io/categories/%E5%90%8E%E7%AB%AF/Java/Spring-Boot/)  
 - [dalaoyang-Spring Boot](https://www.dalaoyang.cn/tag/springboot/)  
+- [程序猿DD-Spring Boot合集](http://blog.didispace.com/categories/Spring-Boot/)   
 
 ## 开源
 
