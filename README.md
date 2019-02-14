@@ -32,7 +32,7 @@
 - [天码营-Spring Boot](https://www.tianmaying.com/tutorials/tag/Springboot)  
 - [猿天地-Spring Boot](http://cxytiandi.com/blog/detail/17437)  
 - [刘冬的博客-Spring Boot](http://www.cnblogs.com/GoodHelper/tag/spring%20boot/default.html)  
-- [唐亚峰 Battcn-Spring Boot](http://blog.battcn.com/categories/SpringBoot/)  
+- [唐亚峰 Battcn-Spring Boot](https://blog.battcn.com/categories/SpringBoot/)  
 - [sylvanassun-Spring Boot](https://sylvanassun.github.io/categories/%E5%90%8E%E7%AB%AF/Java/Spring-Boot/)  
 - [dalaoyang-Spring Boot](https://www.dalaoyang.cn/tag/springboot/)  
 - [程序猿DD-Spring Boot合集](http://blog.didispace.com/categories/Spring-Boot/)   
