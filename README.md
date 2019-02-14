@@ -14,7 +14,6 @@
 [Spring Boot Starters 列表](starter-list.md)
 
 
-
 ## 博客
 
 - [纯洁的微笑-Spring Boot系列文章](http://www.ityouknow.com/spring-boot.html)  
