@@ -1,6 +1,6 @@
 # Awesome Spring Boot
 
-收集各种Spring Boot 学习资源
+收集各种 Spring Boot 学习资源
 
 [参与贡献](https://github.com/ityouknow/awesome-spring-boot/issues/1)
 
@@ -21,9 +21,7 @@
 - [Mkyong-Spring Boot教程（国外）](http://www.mkyong.com/tutorials/spring-boot-tutorials/)
 - [baeldung-Spring Boot教程（国外）](https://www.baeldung.com/spring-boot)  
 - [liaokailin的专栏-Spring Boot实战](http://blog.csdn.net/liaokailin/article/category/5765237)
-- [梁桂钊-Spring Boot 揭秘与实战 系列](http://blog.720ui.com/columns/springboot_all/)  
 - [catoop的专栏-Spring Boot 学习](http://blog.csdn.net/column/details/spring-boot.html)  
-- [简书Spring Boot专题](http://www.jianshu.com/c/f0cf6eae1754)  
 - [方志朋-SpringBoot 非官方教程](http://blog.csdn.net/column/details/15397.html)  
 - [嘟嘟-Spring-Boot干货系列](http://tengj.top/categories/Spring-Boot%E5%B9%B2%E8%B4%A7%E7%B3%BB%E5%88%97/)  
 - [小柒-SpringBoot开发案例](https://blog.52itstyle.com/category/springBoot/)  
@@ -34,7 +32,6 @@
 - [唐亚峰 Battcn-Spring Boot](https://blog.battcn.com/categories/SpringBoot/)  
 - [sylvanassun-Spring Boot](https://sylvanassun.github.io/categories/%E5%90%8E%E7%AB%AF/Java/Spring-Boot/)  
 - [dalaoyang-Spring Boot](https://www.dalaoyang.cn/tag/springboot/)  
-- [程序猿DD-Spring Boot合集](http://blog.didispace.com/categories/Spring-Boot/)   
 
 ## 开源
 
@@ -43,7 +40,6 @@
 - [Spring Boot开源软件 云收藏](https://github.com/cloudfavorites/favorites-web)  
 - [Docker+SpringBoot+Mybatis+thymeleaf等技术实现的Java博客系统](https://github.com/ZHENFENG13/My-Blog)  
 - [Spring boot & Shiro 权限管理系统](https://github.com/wuyouzhuguli/FEBS)  
-- [程序员DD SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning)  
 - [Spring Boot实现支付服务：支付宝，微信...](https://gitee.com/52itstyle/spring-boot-pay)  
 - [Spring Boot后台商城 h5 小程序](https://gitee.com/JiaGou-XiaoGe/webappchat)  
 - [基于Spring Boot响应式文件浏览管理器](https://gitee.com/alexyang/spring-boot-filemanager)  
@@ -81,7 +77,6 @@
 - [Spring Boot 参考指南- 英文版](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)  
 - [网易云课堂Spring Boot视频](http://study.163.com/courses-search?keyword=Spring%20Boot)   
 - [慕课网Spring Boot视频](https://www.imooc.com/search/?words=spring%20boot)   
-- [Spring4all-Spring Boot专栏](http://www.spring4all.com/category/2)   
 - [开源书籍-微服务：从设计到部署](https://github.com/oopsguy/microservices-from-design-to-deployment-chinese)    
 
 ## 其它
