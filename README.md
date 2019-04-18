@@ -44,6 +44,7 @@
 - [Spring Boot后台商城 h5 小程序](https://gitee.com/JiaGou-XiaoGe/webappchat)  
 - [基于Spring Boot响应式文件浏览管理器](https://gitee.com/alexyang/spring-boot-filemanager)  
 - [Spring Boot开源博客](https://github.com/Raysmond/SpringBlog)  
+- [支付宝、微信、银联支付解决方案](https://gitee.com/52itstyle/spring-boot-pay)  
 - [邮件发送服务多种实现，队列，线程定时任务](https://gitee.com/52itstyle/spring-boot-mail)  
 - [Spring Boot项目实践总结](https://github.com/timebusker/spring-boot)  
 - [Vue+SpringBoot实现的多用户博客管理平台](https://github.com/lenve/VBlog)  
