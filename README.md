@@ -67,7 +67,8 @@
 - [zhudyos/duic Distributed configuration center（分布式配置中心）:new:](https://github.com/zhudyos/duic)
 - [Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端](https://github.com/linlinjava/litemall)
 - [mall-SpringBoot+MyBatis 电商系统](https://github.com/macrozheng/mall)
-- [基于Spring Boot2.0微服务脚手架](https://github.com/Senssic/sc-whorl)
+- [Vue+SpringBoot实现的实体书购买平台](https://github.com/liuzhengwei127/Ebook)
+- [基于Spring Boot2.0 微服务脚手架](https://github.com/Senssic/sc-whorl)
 
 
 ## 网站
