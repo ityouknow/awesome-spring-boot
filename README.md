@@ -69,6 +69,7 @@
 - [mall-SpringBoot+MyBatis 电商系统](https://github.com/macrozheng/mall)
 - [Vue+SpringBoot实现的实体书购买平台](https://github.com/liuzhengwei127/Ebook)
 - [基于Spring Boot2.0 微服务脚手架](https://github.com/Senssic/sc-whorl)
+- [Spring Boot 2.x 后台管理系统](https://github.com/hope-for/hope-boot)
 
 
 ## 网站
