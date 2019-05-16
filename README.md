@@ -32,6 +32,7 @@
 - [唐亚峰 Battcn-Spring Boot](https://blog.battcn.com/categories/SpringBoot/)  
 - [sylvanassun-Spring Boot](https://sylvanassun.github.io/categories/%E5%90%8E%E7%AB%AF/Java/Spring-Boot/)  
 - [dalaoyang-Spring Boot](https://www.dalaoyang.cn/tag/springboot/)  
+- [謝謝同学-Spring Boot](https://blog.lqdev.cn/categories/springboot/)  
 
 ## 开源
 
