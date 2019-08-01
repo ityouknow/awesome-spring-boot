@@ -17,6 +17,7 @@
 ## 博客
 
 - [纯洁的微笑-Spring Boot系列文章](http://www.ityouknow.com/spring-boot.html)  
+- [江南一点雨-关于Spring Boot](http://blog.csdn.net/column/details/13987.html)  
 - [林祥纤-从零开始学Spring Boot](http://412887952-qq-com.iteye.com/category/356333)   
 - [Mkyong-Spring Boot教程（国外）](http://www.mkyong.com/tutorials/spring-boot-tutorials/)
 - [baeldung-Spring Boot教程（国外）](https://www.baeldung.com/spring-boot)  
@@ -25,7 +26,6 @@
 - [方志朋-SpringBoot 非官方教程](https://www.fangzhipeng.com/spring-boot.html)  
 - [嘟嘟-Spring-Boot干货系列](http://tengj.top/categories/Spring-Boot%E5%B9%B2%E8%B4%A7%E7%B3%BB%E5%88%97/)  
 - [小柒-SpringBoot开发案例](https://blog.52itstyle.com/category/springBoot/)  
-- [江南一点雨-关于Spring Boot](http://blog.csdn.net/column/details/13987.html)  
 - [天码营-Spring Boot](https://www.tianmaying.com/tutorials/tag/Springboot)  
 - [猿天地-Spring Boot](http://cxytiandi.com/blog/detail/17437)  
 - [刘冬的博客-Spring Boot](http://www.cnblogs.com/GoodHelper/tag/spring%20boot/default.html)  
