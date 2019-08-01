@@ -17,7 +17,7 @@
 ## 博客
 
 - [纯洁的微笑-Spring Boot系列文章](http://www.ityouknow.com/spring-boot.html)  
-- [江南一点雨-关于Spring Boot](http://blog.csdn.net/column/details/13987.html)  
+- [江南一点雨-关于Spring Boot](https://www.javaboy.org/springboot/)  
 - [林祥纤-从零开始学Spring Boot](http://412887952-qq-com.iteye.com/category/356333)   
 - [Mkyong-Spring Boot教程（国外）](http://www.mkyong.com/tutorials/spring-boot-tutorials/)
 - [baeldung-Spring Boot教程（国外）](https://www.baeldung.com/spring-boot)  
