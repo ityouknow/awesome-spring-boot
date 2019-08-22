@@ -33,6 +33,7 @@
 - [sylvanassun-Spring Boot](https://sylvanassun.github.io/categories/%E5%90%8E%E7%AB%AF/Java/Spring-Boot/)  
 - [dalaoyang-Spring Boot](https://www.dalaoyang.cn/tag/springboot/)  
 - [謝謝同学-Spring Boot](https://blog.lqdev.cn/categories/springboot/)  
+- [追梦1819-Spring Boot](https://blog.csdn.net/weixin_39759846/column/info/38599)  
 
 ## 开源
 
