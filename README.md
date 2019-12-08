@@ -35,6 +35,7 @@
 - [謝謝同学-Spring Boot](https://blog.lqdev.cn/categories/springboot/)  
 - [追梦1819-Spring Boot](https://blog.csdn.net/weixin_39759846/column/info/38599)  
 - [mrbird-Spring Boot](https://mrbird.cc/tags/Spring-Boot/)  
+- [Thinkingcao-Spring Boot](https://blog.csdn.net/thinkingcao/category_9281035.html)  
 
 ## 开源
 
