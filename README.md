@@ -75,7 +75,7 @@
 - [基于Spring Boot2.0 微服务脚手架](https://github.com/Senssic/sc-whorl)
 - [Spring Boot 2.x 现代化的脚手架项目](https://github.com/hope-for/hope-boot)
 - [Spring-Boot-Plus 后台快速开发脚手架](https://github.com/geekidea/spring-boot-plus)
-
+- [当Parallel遇上了DI - SpringBoot并行聚合最佳实践](https://github.com/lvyahui8/spring-boot-data-aggregator)
 
 
 ## 网站
