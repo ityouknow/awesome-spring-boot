@@ -109,4 +109,4 @@
 
 关注公众号：纯洁的微笑，回复"springboot"进群交流
 
-![](http://favorites.ren/assets/images/keeppuresmile.jpg)
+![](http://ityouknow.com/assets/images/keeppuresmile.jpg)
