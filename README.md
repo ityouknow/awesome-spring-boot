@@ -19,6 +19,7 @@
 - [网站](#网站)
 - [开源](#开源)
 - [其它](#其它)
+- [Books](#books)
 
 [Spring Boot Starters 列表](starter-list.md)
 
@@ -106,7 +107,8 @@
 - [IT行业中文资源大全](https://github.com/ityouknow/awesome-list)  
 - [很多的 Hello Demo](https://github.com/hellokoding)  
 
-
+## Books
+- [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice)
 ---
 
 关注公众号：纯洁的微笑，回复"springboot"进群交流
