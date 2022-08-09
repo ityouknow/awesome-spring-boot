@@ -16,6 +16,9 @@
       <div class="container clearfix">
         <span id="banner" class="float-left banner hide">Spring Boot 中文索引</span>
         <ul class="nav-links float-right">
+           <li class="nav-link float-left">
+            <a  href="https://mp.weixin.qq.com/s/dl_PChAbbWmBMYnkEeWMnQ"  target="_blank">副业</a>
+          </li>
           <li class="nav-link float-left">
             <a  href="#blogs">博客</a>
           </li>
@@ -302,29 +305,38 @@
       </ul>
     </div>
   </footer>
-  <div style="display: none;">
-   <script src="https://s19.cnzz.com/z_stat.php?id=1272948266&web_id=1272948266" language="JavaScript"></script>
-  </div>
-<script>
-  'use strict';
-  var anchors = document.getElementsByTagName('a');
-  var anchor;
-  for (var i = 0, l = anchors.length; i !== l; ++i) {
-    anchor = anchors[i];
-    if (anchor.getAttribute('rel') === 'external') {
-      anchor.setAttribute('target', '_blank');
+  <script>
+    'use strict';
+    var anchors = document.getElementsByTagName('a');
+    var anchor;
+    for (var i = 0, l = anchors.length; i !== l; ++i) {
+      anchor = anchors[i];
+      if (anchor.getAttribute('rel') === 'external') {
+        anchor.setAttribute('target', '_blank');
+      }
     }
-  }
 
-  var banner = document.getElementById('banner');
-  window.onscroll = function () {
-    if (window.scrollY >= 120) {
-      banner.className = banner.className.replace(/hide/g, ' ');
-    }
-    else {
-      banner.className += ' hide';
-    }
-  };
-</script>
+    var banner = document.getElementById('banner');
+    window.onscroll = function () {
+      if (window.scrollY >= 120) {
+        banner.className = banner.className.replace(/hide/g, ' ');
+      }
+      else {
+        banner.className += ' hide';
+      }
+    };
+  </script>
+  <div style="display: none;">
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?6a434e3937628d6094e706584c0defd1";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+  </div>
+
 </body>
 </html>
