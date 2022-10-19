@@ -5,7 +5,6 @@
 [参与贡献](https://github.com/ityouknow/awesome-spring-boot/issues/1)
 
 
-
 ## 目录
 
 - [博客](#博客)
