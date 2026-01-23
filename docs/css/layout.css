@@ -4,7 +4,6 @@ body {
   font-family: Palatino, Optima, "Source Han Sans CN", "Hiragino Sans GB" Georgia, serif;
   min-width: 800px;
 }
-
 .clearfix::before,
 .clearfix::after {
   content:".";
@@ -50,13 +49,13 @@ header {
   overflow: hidden;
 }
 
-.fixed-top {
+/* .fixed-top {
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
   z-index: 1;
-}
+} */
 
 nav {
   height: 40px;
@@ -198,14 +197,14 @@ section h2 {
 }
 
 .link {
-  float: left;
+  float: right;
   width: 48%;
   margin-left: 2%;
   margin-top: 20px;
-  line-height: 24PX;
+  line-height: 98PX;
 }
 .footer{
-  margin-top: 50px;
+  margin-top: 59px;
 }
 .footer .container{
   display: flex;
@@ -214,7 +213,7 @@ section h2 {
 }
 .social{
   display: flex;
-  align-items: center;
+  align-items: left;
   margin: 0;
   padding: 0;
   list-style: none;
