@@ -5,6 +5,7 @@
 [参与贡献](https://github.com/ityouknow/awesome-spring-boot/issues/1)
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Spring Boot microservice orchestration, automated code review, and multi-agent coordination. MIT licensed.
 ## 目录
 
 - [博客](#博客)
