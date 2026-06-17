@@ -79,6 +79,7 @@
 - [当Parallel遇上了DI - SpringBoot并行聚合最佳实践](https://github.com/lvyahui8/spring-boot-data-aggregator)
 - [JApiDocs：无需注解的 SpringBoot API文档生成工具](https://github.com/YeDaxia/JApiDocs)
 - [SpringBoot+Vue搭建的公司门户网站和后台管理系统](https://gitee.com/JuWaiRenDian/mywebsite)
+- [Simple IoT 极简物联网平台](https://github.com/dingdaoyi/simple-iot) - 单体可部署的开源物联网平台，基于 Spring Boot 4 + Java 25 + Vue 3，内置 MQTT broker、可视化规则引擎、Java/JS/Groovy/Lua 热加载协议脚本，InfluxDB 3 时序存储，2GB 小服务器即可全栈跑起。
 
 
 ## 网站
