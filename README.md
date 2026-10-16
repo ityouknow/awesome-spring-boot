@@ -79,6 +79,7 @@
 - [当Parallel遇上了DI - SpringBoot并行聚合最佳实践](https://github.com/lvyahui8/spring-boot-data-aggregator)
 - [JApiDocs：无需注解的 SpringBoot API文档生成工具](https://github.com/YeDaxia/JApiDocs)
 - [SpringBoot+Vue搭建的公司门户网站和后台管理系统](https://gitee.com/JuWaiRenDian/mywebsite)
+- [spring-boot-guard：Spring Boot API 安全中间件，提供 IP 过滤、限流与自动封禁、攻击检测](https://github.com/Guard-Core/spring-boot-guard)
 
 
 ## 网站
